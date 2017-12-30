@@ -70,7 +70,7 @@ module.exports = {
     '@nuxtjs/bootstrap-vue',
     '@nuxtjs/font-awesome',
     '@nuxtjs/sitemap',
-    /* ['@nuxtjs/google-analytics', { ua: 'YOUR_ANALYTICS_ID' }], */
+     ['@nuxtjs/google-analytics', { id: 'UA-62716182-5' }], 
     ['@nuxtjs/markdownit', { html: true, linkify: true, breaks: true }]
   ],
   sitemap: {
